@@ -1,0 +1,1 @@
+/* Modernizr source asset retained from the original project. */
