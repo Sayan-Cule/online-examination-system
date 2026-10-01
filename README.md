@@ -51,9 +51,28 @@ online-examination-system/
 ├── sign.php
 ├── update.php
 ├── css/
+│   ├── bootstrap.min.css
+│   ├── bootstrap-theme.min.css
+│   ├── font.css
+│   └── main.css
 ├── fonts/
+│   ├── glyphicons-halflings-regular.eot
+│   ├── glyphicons-halflings-regular.ttf
+│   ├── glyphicons-halflings-regular.woff
+│   ├── glyphicons-halflings-regular.woff2
+│   ├── gothic.ttf
+│   └── typo.ttf
 ├── image/
+│   ├── CAM00121.png
+│   ├── bg.jpg
+│   ├── bg1.jpg
+│   └── cd-icon-menu.svg
 └── js/
+    ├── bootstrap.js
+    ├── bootstrap.min.js
+    ├── jquery.js
+    ├── main.js
+    └── modernizr.js
 ```
 
 ## Database
@@ -85,7 +104,7 @@ The supplied SQL database contains tables for:
 
 - This is an academic/portfolio project.
 - The original project was developed as a PHP, MySQL and web-development project.
-- Source files will be sanitized before being added to the public repository.
-- The repository will not include the original project report.
-- Personal information, credentials, and non-public sample data will be removed or replaced before publication.
+- The public repository contains sanitized source and sample data.
+- Personal information, credentials, and non-public sample data have been removed or replaced.
+- The original project report is intentionally excluded from the repository.
 - The project is preserved primarily as a portfolio and interview reference and should not be considered production-ready authentication software.
